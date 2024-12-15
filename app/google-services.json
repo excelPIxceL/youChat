@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642090196638",
+    "project_id": "youchat-e4ce0",
+    "storage_bucket": "youchat-e4ce0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642090196638:android:4af06d59177b0bac35e58f",
+        "android_client_info": {
+          "package_name": "com.example.chatwithme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAJpWGQ56kzwO3NzzOfDymBZ_yQZWK_b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
